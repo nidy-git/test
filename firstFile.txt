@@ -1,3 +1,4 @@
 This is the first line of my file.
 Appended the second line to this file.
 // Added third line.
+Line four is not commented.
